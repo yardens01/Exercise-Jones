@@ -31,7 +31,7 @@ const employees = '51-500';
         console.log('"Thank You" Page has been reached.');
 
     
-    //await browser.close();
+    await browser.close();
 })();
 
 
